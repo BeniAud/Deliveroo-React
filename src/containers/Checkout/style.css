@@ -1,0 +1,85 @@
+.checkout-background {
+  background-color: #f3f5f5;
+  min-height: 100vh;
+  padding-top: 40px;
+}
+
+.container {
+  width: 1120px;
+  margin: 0 auto;
+  display: flex;
+}
+.restaurant-name h2 {
+  margin-bottom: 10px;
+  margin-top: -9px;
+  color: #828585;
+}
+.checkout-infos {
+  margin-right: 20px;
+  flex: 1;
+  padding: 40px;
+  background-color: white;
+}
+
+.checkout-cart {
+  width: 370px;
+  background-color: white;
+}
+
+.checkout-elements-group {
+  display: flex;
+  margin: 30px 0 10px 0;
+}
+
+.checkout-elements-group > div {
+  flex-direction: column;
+  display: flex;
+  flex: 1;
+}
+
+.checkout-elements-group > div:not(:last-child) {
+  margin-right: 20px;
+}
+
+.checkout-subtotal-fee,
+.checkout-total,
+.checkout-tip {
+  padding: 20px 0;
+  border-top: 1px solid #d5d6d6;
+}
+
+.checkout-total,
+.checkout-tip {
+  font-weight: 700;
+}
+/* .checkout-products li  */
+.checkout-subtotal,
+.checkout-fee,
+.checkout-total,
+.checkout-tip {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+}
+.checkout-cart-section {
+  background: #fff;
+  border-radius: 3px;
+  flex: 0 1 35%;
+  margin: 20px;
+  padding: 0 30px 30px 30px;
+  box-shadow: 0 14px 14px 0 rgba(0, 0, 0, 0.08);
+  color: #2e3333;
+  height: 100%;
+}
+.checkout-cart-section h2 {
+  margin-top: 5px;
+}
+.checkout-products {
+  list-style: none;
+  margin: 20px 0;
+}
+
+.qty-product span:first-child {
+  padding-right: 15px;
+  color: #828585;
+}

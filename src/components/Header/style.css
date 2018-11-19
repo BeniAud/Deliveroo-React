@@ -1,0 +1,12 @@
+.header {
+  border-bottom: solid 1px lightgray;
+}
+
+.logo-container {
+  width: 1120px;
+  margin: 0 auto;
+}
+
+.logo-image {
+  width: 150px;
+}

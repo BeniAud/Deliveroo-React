@@ -1,0 +1,18 @@
+.menu-background {
+  background-color: rgb(243, 245, 245);
+}
+
+.menu {
+  width: 1120px;
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+}
+
+.menu-items {
+  flex: 1;
+}
+
+.menu-cart {
+  width: 370px;
+}

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Deliveroo-Icons';
+    src: url('Deliveroo-Icons.eot');
+    src: url('Deliveroo-Icons.eot?#iefix') format('embedded-opentype'),
+        url('Deliveroo-Icons.woff2') format('woff2'),
+        url('Deliveroo-Icons.woff') format('woff'),
+        url('Deliveroo-Icons.ttf') format('truetype'),
+        url('Deliveroo-Icons.svg#Deliveroo-Icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans';
+    src: url('AdelleSans-Bold.eot');
+    src: url('AdelleSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSans-Bold.woff2') format('woff2'),
+        url('AdelleSans-Bold.woff') format('woff'),
+        url('AdelleSans-Bold.ttf') format('truetype'),
+        url('AdelleSans-Bold.svg#AdelleSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stratos Deliveroo Web';
+    src: url('StratosDeliverooWeb-SemiBold.eot');
+    src: url('StratosDeliverooWeb-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('StratosDeliverooWeb-SemiBold.woff2') format('woff2'),
+        url('StratosDeliverooWeb-SemiBold.woff') format('woff'),
+        url('StratosDeliverooWeb-SemiBold.ttf') format('truetype'),
+        url('StratosDeliverooWeb-SemiBold.svg#StratosDeliverooWeb-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans';
+    src: url('AdelleSans.eot');
+    src: url('AdelleSans.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSans.woff2') format('woff2'),
+        url('AdelleSans.woff') format('woff'),
+        url('AdelleSans.ttf') format('truetype'),
+        url('AdelleSans.svg#AdelleSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
